@@ -1,0 +1,10 @@
+# Python Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Pytest / Test Reports
+.pytest_cache/
+*.html
+*.png

@@ -1,0 +1,8 @@
+# Automated testing framework and WebDriver
+selenium==4.18.1
+
+# Test runner for organizing and executing test suites
+pytest==8.0.2
+
+# Plugin for generating visual HTML test reports (required for Task 5 appendix)
+pytest-html==4.1.1
