@@ -1,13 +1,13 @@
-# SauceDemo Automated Testing Project 🧪
+# OrangeHRM Automated Testing Project 🧪
 
 **Course:** Software Verification & Validation Testing (SVVT) - Assignment II  
-**Application Tested:** [SauceDemo E-commerce App](https://www.saucedemo.com/)  
+**Application Tested:** [OrangeHRM Open Source Demo](https://opensource-demo.orangehrmlive.com/)  
 **Framework:** Selenium WebDriver (Python)
 
 ## 📌 Project Description
-This repository contains the automated test suite and execution reports for the SVVT Individual Software Testing Project. The purpose of this project is to apply software testing concepts—including equivalence partitioning, decision table testing, and negative testing—on a real-world application. 
+This repository contains the automated test suite and execution reports for the SVVT Individual Software Testing Project. The purpose of this project is to apply software testing concepts—including equivalence partitioning, decision table testing, and negative testing—on a real-world, enterprise-level Human Resource Management (HRM) application. 
 
-The test scenarios map directly to the functional and non-functional requirements defined in the primary assignment report, ensuring comprehensive traceability and code coverage for core workflows such as Authentication, Cart Management, and Checkout.
+The test scenarios map directly to the functional and non-functional requirements defined in the primary assignment report, ensuring comprehensive traceability and code coverage for core modules such as Authentication, Employee Management (PIM), and Leave Management.
 
 ## 🛠️ Technology Stack
 * **Language:** Python 3.x
@@ -20,8 +20,8 @@ The test scenarios map directly to the functional and non-functional requirement
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AbellTT/SauceDemo_Testing_SVVT.git
-   cd SauceDemo_Testing_SVVT
+   git clone https://github.com/AbellTT/OrangeHRM_Testing_SVVT.git
+   cd OrangeHRM_Demo_Testing
    ```
 2. **Activate the virtual environment:**
    ```bash
